@@ -1,0 +1,64 @@
+main {
+    width: 390px;
+    height: 540px auto;
+    margin: 10px auto;
+    border: 2px solid black;
+}
+
+.Foto{
+    display: block;
+    border: 2px solid black;
+    width: 230px;
+    height: 220px;
+    padding: 8px;
+}
+
+a{
+    display: inline-block;
+    text-align: center;
+    border: 2px solid black;
+    width: 160px;
+    padding: 13px;
+}
+
+
+.Cargo, .Email, .Paragrafo, .Nome{
+    margin-top: 12px;
+    border: 1px solid black;
+}
+
+.P{
+    margin-bottom: 40px;
+}
+
+
+.P2{
+    margin-top: 20px;
+    margin-bottom: 18px;
+    border: 1px solid black;
+}
+
+.Caixa {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    margin-right: 0;
+    padding-left: 8px;
+}
+
+
+.Caixa2{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    margin-left: -25px;
+    padding-left: 8px; 
+}
+
+
+footer {
+    border: 1px solid rgb(5, 5, 5);
+    margin: 10px 20px 30px 40px;
+}
